@@ -8,7 +8,7 @@ I previously completed a **Bachelor’s degree in Statistics** at the same unive
 
 I was born in **Florence on 22 April 2003** and grew up in **Grosseto, Tuscany**.
 
-I graduated from **Liceo Scientifico “G. Marconi”** with a final grade of **100/100**.
+I graduated from **Liceo Scientifico “G. Marconi”**.
 
 From **2021 to 2024**, I spent my summers working as a **lifeguard on the Maremma coast**. I left the job in 2025 to focus more fully on my university studies.
 
