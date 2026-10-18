@@ -4,6 +4,8 @@ I’m a Master’s student in **Artificial Intelligence** at the **University of
 
 I previously completed a **Bachelor’s degree in Statistics** at the same university, and I’m now continuing my studies with a focus on Artificial Intelligence, Machine Learning, and related computational methods.
 
+🌐 **[Visit my personal website](https://giacomo-manfucci.pages.dev/)** to explore my projects and try out some interactive demos.
+
 ## About me
 
 I was born in **Florence on 22 April 2003** and grew up in **Grosseto, Tuscany**.
