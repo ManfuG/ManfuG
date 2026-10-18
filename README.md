@@ -4,8 +4,6 @@ I’m a Master’s student in **Artificial Intelligence** at the **University of
 
 I previously completed a **Bachelor’s degree in Statistics** at the same university, and I’m now continuing my studies with a focus on Artificial Intelligence, Machine Learning, and related computational methods.
 
-I also build [HanPit](https://github.com/ManfuG/HanPit), a local-first Chinese study app with flashcards, Mandarin audio and HSK tests. [Try it](https://giacomo-manfucci.pages.dev/projects/hanpit/).
-
 ## About me
 
 I was born in **Florence on 22 April 2003** and grew up in **Grosseto, Tuscany**.
