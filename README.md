@@ -37,6 +37,15 @@ I’m particularly interested in:
 - Optimization and Optimal Design
 - Agentic systems
 
+## PitVerse
+
+[**PitVerse**](https://giacomo-manfucci.pages.dev/pitverse/) is my local-first suite, developed with AI coding assistants:
+
+- [HanPit](https://github.com/ManfuG/HanPit): Chinese FSRS study, Mandarin audio, grammar and HSK preparation.
+- [QuantaPit](https://github.com/ManfuG/QuantaPit): quantitative drills, market games and interview training.
+- [KnightPit](https://github.com/ManfuG/KnightPit): offline Stockfish chess on web and Android, with separate educational NumPy/Python research—not a self-trained model powering Stockfish.
+- [NotePit](https://github.com/ManfuG/NotePit): native Kotlin/Compose PDF and code editing/search via Android SAF, with optional on-device semantic search.
+
 ## Tech
 
 Some of the tools and languages I work with:
